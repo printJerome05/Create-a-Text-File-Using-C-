@@ -1,0 +1,10 @@
+D:\solutions visual studio\Create Text File Exercise Challenge Exercise\Create Text File Exercise Challenge Exercise\bin\Debug\Create Text File Exercise Challenge Exercise.exe.config
+D:\solutions visual studio\Create Text File Exercise Challenge Exercise\Create Text File Exercise Challenge Exercise\bin\Debug\Create Text File Exercise Challenge Exercise.exe
+D:\solutions visual studio\Create Text File Exercise Challenge Exercise\Create Text File Exercise Challenge Exercise\bin\Debug\Create Text File Exercise Challenge Exercise.pdb
+D:\solutions visual studio\Create Text File Exercise Challenge Exercise\Create Text File Exercise Challenge Exercise\obj\Debug\Create Text File Exercise Challenge Exercise.csproj.AssemblyReference.cache
+D:\solutions visual studio\Create Text File Exercise Challenge Exercise\Create Text File Exercise Challenge Exercise\obj\Debug\Create_Text_File_Exercise_Challenge_Exercise.Form1.resources
+D:\solutions visual studio\Create Text File Exercise Challenge Exercise\Create Text File Exercise Challenge Exercise\obj\Debug\Create_Text_File_Exercise_Challenge_Exercise.Properties.Resources.resources
+D:\solutions visual studio\Create Text File Exercise Challenge Exercise\Create Text File Exercise Challenge Exercise\obj\Debug\Create Text File Exercise Challenge Exercise.csproj.GenerateResource.cache
+D:\solutions visual studio\Create Text File Exercise Challenge Exercise\Create Text File Exercise Challenge Exercise\obj\Debug\Create Text File Exercise Challenge Exercise.csproj.CoreCompileInputs.cache
+D:\solutions visual studio\Create Text File Exercise Challenge Exercise\Create Text File Exercise Challenge Exercise\obj\Debug\Create Text File Exercise Challenge Exercise.exe
+D:\solutions visual studio\Create Text File Exercise Challenge Exercise\Create Text File Exercise Challenge Exercise\obj\Debug\Create Text File Exercise Challenge Exercise.pdb
